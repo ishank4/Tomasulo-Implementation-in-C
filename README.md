@@ -7,7 +7,7 @@ ___
 ###This program follows the algorithm as stated by the following sources
 1. Computer Architecture : A Quantitative Approach (5th Edition) by Hennessy, John L., Patterson, David A.
 2. https://en.wikipedia.org/wiki/Tomasulo_algorithm#Implementation_concepts
-3. Dr. Chandra professor at Cal Poly Pomona
+
 
 
 
