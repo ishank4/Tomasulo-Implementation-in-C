@@ -1,14 +1,6 @@
 /*
 //#######################################################################
-  Author:   Arthur J. Miller
-  FileName: main.cpp
-  Full project at: github.com/milleraj66/ECE585_TomasuloAlgorithm
-  Date:
-            Start:  03-01-2016
-            Update: 03-08-2016
-            Update: 03-09-2016
-            Update:  03-10-2016
-            Final:  03-11-2016
+ 
 
   Purpose:  ECE 585 Tomasulo Algorithm
             Driver file for Tomasulo algorithm
